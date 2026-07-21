@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \".venv\\\\Scripts\\\\python.exe\" -m pip install streamlit google-genai python-dotenv 2>&1)",
+      "Bash(.venv/Scripts/python.exe -c ' *)"
+    ]
+  }
+}
